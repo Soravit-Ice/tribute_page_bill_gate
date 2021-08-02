@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.billgate{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 50px;
+    
+}
+.img-in-detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-in-detail img{
+    border-radius: 50px;
+    margin-top: 50px;
+    width: 750px;
+    
+  }
+
+.header-in-detail h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.header-in-detail h2{
+    text-align: center;
+    padding: 20px;
+}
+.detail-history{
+    padding: 50px;
+    margin: 10px;
+}
+
+
+.detail-history h2{
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.honor-history , .property{
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.honor-history h2{
+   text-decoration: underline;
+   padding-bottom: 10px;
+}
+
+
+
+.property h2{
+   text-decoration: underline;
+   padding-bottom: 10px;
+}
+
+.property p{
+
+    padding-bottom: 10px;
+ }
+
+ .wiki{
+    text-align: center;
+    padding-bottom: 1.5rem;
+ }
+
+ .sub-detail {
+     margin-top: 50px;
+     background-color: bisque;
+ }
